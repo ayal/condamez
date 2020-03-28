@@ -1,2 +1,0 @@
-# condamez
-Created with CodeSandbox
