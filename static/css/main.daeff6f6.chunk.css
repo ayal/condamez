@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center;width:150px;font-size:14px}.App,.board{height:100px}.board{margin:10px;width:100px;display:flex;flex-direction:column;flex-wrap:wrap}.cell{width:25px;height:25px;outline:1px solid #000}.cell-r{background:red}.cell-b{background:#00f}.cell-y{background:#ff0}.cell-x{background:#000}button{margin:10px;width:50px;height:30px}
+/*# sourceMappingURL=main.daeff6f6.chunk.css.map */

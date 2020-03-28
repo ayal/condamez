@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/condamez/static/css/main.e2dbab10.chunk.css",
-    "main.js": "/condamez/static/js/main.8b8b12c7.chunk.js",
-    "main.js.map": "/condamez/static/js/main.8b8b12c7.chunk.js.map",
+    "main.css": "/condamez/static/css/main.daeff6f6.chunk.css",
+    "main.js": "/condamez/static/js/main.2848358e.chunk.js",
+    "main.js.map": "/condamez/static/js/main.2848358e.chunk.js.map",
     "runtime~main.js": "/condamez/static/js/runtime~main.a37810b9.js",
     "runtime~main.js.map": "/condamez/static/js/runtime~main.a37810b9.js.map",
     "static/js/2.e23f0133.chunk.js": "/condamez/static/js/2.e23f0133.chunk.js",
     "static/js/2.e23f0133.chunk.js.map": "/condamez/static/js/2.e23f0133.chunk.js.map",
     "index.html": "/condamez/index.html",
-    "precache-manifest.fbdb011b0fbcf841c0033aee05833b60.js": "/condamez/precache-manifest.fbdb011b0fbcf841c0033aee05833b60.js",
+    "precache-manifest.fddc3391e7ea7fd728c1ccc3acf999c7.js": "/condamez/precache-manifest.fddc3391e7ea7fd728c1ccc3acf999c7.js",
     "service-worker.js": "/condamez/service-worker.js",
-    "static/css/main.e2dbab10.chunk.css.map": "/condamez/static/css/main.e2dbab10.chunk.css.map"
+    "static/css/main.daeff6f6.chunk.css.map": "/condamez/static/css/main.daeff6f6.chunk.css.map"
   }
 }
